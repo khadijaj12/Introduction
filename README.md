@@ -16,7 +16,7 @@ I learn by building, experimenting, and understanding how systems work from the 
 
 ---
 
-## Featured Projects
+Featured Projects
 
 ### 🗣 Pashto NLP Research Project *(In Progress — Publication Focused)*  
 Developing a Natural Language Processing model for **Pashto**, a low-resource language, focused on improving language understanding and representation using transformer-based multilingual architectures.
@@ -34,7 +34,13 @@ Hugging Face Transformers • XLM-RoBERTa • RoBERTa • PyTorch • NLP • Tr
 An AI-powered computer vision model designed for intelligent threat detection and image-based classification of potentially dangerous objects or scenarios.
 
 **Technologies:**  
-Python • Deep Learning • Computer Vision • TensorFlow • Neural Networks  
+ThreatVision AI is an end-to-end real-time surveillance system 
+that detects intruders, segments threat regions pixel-by-pixel, 
+and instantly clears the threat area in the video feed while 
+blurring the background.
+
+Stack: YOLOv8 · U-Net · MobileNetV3 · FastAPI · 
+       React · WebSocket · Docker · PyTorch · COCO
 
 ---
 
