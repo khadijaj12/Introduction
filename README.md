@@ -1,4 +1,5 @@
 # # Hi, I'm Khadija 👋
+🎓 BS Artificial Intelligence @ AWKUM, Mardan, Pakistan (2023-2027)
 
 I’m an Artificial Intelligence undergraduate passionate about building intelligent systems, exploring cybersecurity, and developing technology that solves real-world problems. I enjoy working on technically challenging projects across machine learning, computer vision, natural language processing, cybersecurity, and system design.
 
@@ -39,7 +40,8 @@ that detects intruders, segments threat regions pixel-by-pixel,
 and instantly clears the threat area in the video feed while 
 blurring the background.
 
-Stack: YOLOv8 · U-Net · MobileNetV3 · FastAPI · 
+Stack:
+YOLOv8 · U-Net · MobileNetV3 · FastAPI · 
        React · WebSocket · Docker · PyTorch · COCO
 
 ---
@@ -112,3 +114,7 @@ Python • Scikit-learn • NLP • Classification Models
 
 I enjoy building systems that challenge both technical skill and problem-solving ability.  
 My focus is understanding technology deeply — from intelligent models and language systems to secure networks and complex architectures.
+
+## Connect
+📧 khadijaj433@gmail.com
+📍 Mardan, Pakistan
