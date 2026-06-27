@@ -18,7 +18,6 @@ I learn by building, experimenting, and understanding how systems work from the 
 ---
 
 Featured Projects
-status: In Progress
 ### 🗣 Pashto NLP Research Project *(In Progress — Publication Focused)*  
 Developing a Natural Language Processing model for **Pashto**, a low-resource language, focused on improving language understanding and representation using transformer-based multilingual architectures.
 
